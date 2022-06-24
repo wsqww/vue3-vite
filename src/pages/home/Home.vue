@@ -4,9 +4,7 @@ import { defineComponent } from 'vue';
 export default defineComponent({
   name: 'HomePage',
   data() {
-    return {
-      name: 'test',
-    };
+    return {};
   },
   methods: {},
 });
