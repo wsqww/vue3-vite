@@ -1,3 +1,4 @@
+// 配置参考 https://github.com/leoforfree/cz-customizable/blob/master/cz-config-EXAMPLE.js
 module.exports = {
   types: [
     {
@@ -69,4 +70,5 @@ module.exports = {
   allowCustomScopes: true,
   // skipQuestions: ['body', 'footer'],
   subjectLimit: 72,
+  footerPrefix : 'footer:'
 };

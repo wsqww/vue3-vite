@@ -11,7 +11,7 @@ export default defineComponent({
 </script>
 
 <template>
-  <div></div>
+  <div>Home</div>
 </template>
 
 <style scoped></style>
